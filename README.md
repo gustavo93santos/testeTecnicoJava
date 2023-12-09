@@ -9,9 +9,7 @@
 ### Deve conter uma classe Principal para executar as seguintes ações:
 * Inserir todos os funcionários, na mesma ordem e informações da tabela acima.
 * Remover o funcionário “João” da lista.
-* Imprimir todos os funcionários com todas suas informações, sendo que:
-• informação de data deve ser exibido no formato dd/mm/aaaa;
-• informação de valor numérico deve ser exibida no formatado com separador de milhar como ponto e decimal como vírgula.
+* Imprimir todos os funcionários com todas suas informações.
 * Os funcionários receberam 10% de aumento de salário, atualizar a lista de funcionários com novo valor.
 * Agrupar os funcionários por função em um MAP, sendo a chave a “função” e o valor a “lista de funcionários”.
 * Imprimir os funcionários, agrupados por função.
@@ -20,3 +18,6 @@
 * Imprimir a lista de funcionários por ordem alfabética.
 * Imprimir o total dos salários dos funcionários.
 * Imprimir quantos salários mínimos ganha cada funcionário, considerando que o salário mínimo é R$1212.00.
+
+* informação de data deve ser exibido no formato dd/mm/aaaa;
+* informação de valor numérico deve ser exibida no formatado com separador de milhar como ponto e decimal como vírgula.
